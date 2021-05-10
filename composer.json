@@ -1,0 +1,14 @@
+{
+    "name": "zszywacz/raportman",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Patryk Chowratowicz",
+            "email": "pchowratowicz@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
